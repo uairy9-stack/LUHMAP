@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MAP-1.0";
 const contentToCache = [
-    "Build/USHS12.loader.js",
-    "Build/USHS12.framework.js.unityweb",
-    "Build/USHS12.data.unityweb",
-    "Build/USHS12.wasm.unityweb",
+    "Build/USHS13.loader.js",
+    "Build/USHS13.framework.js.unityweb",
+    "Build/USHS13.data.unityweb",
+    "Build/USHS13.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
